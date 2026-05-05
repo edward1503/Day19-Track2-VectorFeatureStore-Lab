@@ -29,7 +29,23 @@ _Mặc dù lý thuyết nói Semantic search tốt cho paraphrase, nhưng thực
 
 ---
 
-## Bonus challenge
+## Screenshot theo notebook
 
-- [ ] Đã làm bonus (xem `bonus/`)
-- [ ] Pair work với: _<tên đồng đội nếu có>_
+### Notebook 1: Embeddings & Vector Indexing
+![NB1-4](screenshots/01-4.png)
+![NB1-5](screenshots/01-5.png)
+![NB1-6](screenshots/01-6.png)
+
+### Notebook 2: Hybrid Search & RRF
+![NB2-4](screenshots/02-4.png)
+![NB2-5](screenshots/02-5.png)
+
+### Notebook 3: FastAPI & Benchmark
+![NB3-2](screenshots/03-2.png)
+![NB3-3](screenshots/03-3.png)
+![NB3-4](screenshots/03-4.png)
+
+### Notebook 4: Feast Feature Store
+![NB4-2](screenshots/04-2.png)
+![NB4-3-4](screenshots/04-3-4.png)
+![NB4-5-6](screenshots/04-5-6.png)
